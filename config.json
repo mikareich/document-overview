@@ -1,0 +1,12 @@
+{
+  "attributes": [
+      {
+          "title": "data-title",
+          "description": "data-description",
+          "preview": "data-preview",
+          "script": "data-script",
+          "styles": "data-styles",
+          "authorized": "data-unauthorized"
+      }
+  ]
+}
